@@ -1,1 +1,1 @@
-# Practica1-ModelosdeRegresi
+# Practica1-ModelosdeRegresion
